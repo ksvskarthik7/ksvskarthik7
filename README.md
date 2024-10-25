@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](https://github.com/user-attachments/assets/413d6242-5e5a-4054-923d-4dcea675530e)
+<!--![image](https://github.com/user-attachments/assets/413d6242-5e5a-4054-923d-4dcea675530e)-->
 
 [![An image of @ksvskarthik7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ksvskarthik7)](https://holopin.io/@ksvskarthik7)
 <!--
